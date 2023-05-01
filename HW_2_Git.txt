@@ -1,15 +1,40 @@
 GitHub. HW_2
 1. На локальном репозитории сделать ветки для:
-- Postman
-- Jmeter
-- CheckLists
-- Bag Reports
-- SQL
-- Charles
-- Mobile testing
+- Postman /// git branch Postman
+- Jmeter /// git branch Jmeter
+- CheckLists /// git branch CheckLists
+- Bag Reports /// git branch Bug_Reports
+- SQL /// git branch SQL
+- Charles /// Git branch Charles
+- Mobile testing /// Git branch Mobile_testing
 
-2. Запушить все ветки на внешний репозиторий
+2. Запушить все ветки на внешний репозиторий /// git push origin --all
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
+
+///
+
+git checkout Bug_reports
+cat bug_report.txt
+ID: [Enter bug report ID here]
+Summary: [Enter bug report summary here]
+Environment:
+        [Enter your bug environment here, e.g. Browser, Version etc.]
+        Browser:
+        Version:
+        Operating System:
+Steps to reproduce:
+        [Enter the steps to reproduce the bug]
+        1.
+        2.
+        3.
+Expected result: [Enter the result that is expected after completing the steps for reproduce the bug]
+Actual result: [Enter the actual result obtained after completing the steps to reproduce the bug]
+Attachments:
+        [Attach information that can help to understand the essence of the bug faster and more clearly (attach a screenshot, screenshot, logs, etc.)]
+        Type: [Enter the attachment type here]
+        URL: [Enter the URL to your attachment]  
+
+
 4. Запушить структуру багрепорта на внешний репозиторий
 5. Вмержить ветку Bag Reports в Main
 6. Запушить main на внешний репозиторий.
