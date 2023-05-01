@@ -78,6 +78,8 @@ git push origin CheckLists
 
 ///
 
-https://github.com/emcpoh/HW_2_Git/tree/main -> Compare & pull request -> Create pull request
+https://github.com/emcpoh/HW_2_Git/tree/main -> Compare & pull request -> Create pull request -> Merge pull request -> Confirm merge
 
-10. Синхронизировать Внешнюю и Локальную ветки Main
+10. Синхронизировать Внешнюю и Локальную ветки Main /// git pull
+
+
