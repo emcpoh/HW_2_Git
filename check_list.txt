@@ -1,0 +1,9 @@
+ID:
+Build version:
+Environment:
+Test date:
+Tester:
+Test type: [Choose your test type, e.g. Smoke, CP, EXT, etc.]
+Cheking: [Briefly describe the verification being performed.]
+Result: [Choose the result: Passed, Failed, Blocked, Skipped, Not run]
+
